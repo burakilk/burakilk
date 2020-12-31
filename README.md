@@ -8,11 +8,3 @@
 <p align="center"><strong>Hello there! <span style="margin:0 10px;">👋</span></strong> My name is <strong>Fatih Burak İlk</strong>, Software Engineer <strong>@hepsiburada </strong></p>
 
 <p align="center">I graduated from Beykent Universty '18 (Turkey) with software engineering.</p>
-
-<table border="0">
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=burakilk&count_private=true&show_icons=true&theme=dracula"/>
-        </td>
-    </tr>
-</table>
