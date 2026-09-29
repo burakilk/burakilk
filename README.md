@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Burak İlk</h1>
 <h3 align="center">Hello there! 👋 My name is Fatih Burak İlk, Tech Lead @PttAVM.com ex @hepsiburada I graduated from Beykent Universty '18 (Turkey) with software engineering.</h3>
 
-- 👨‍💻 All of my projects are available at [fatihburak.ilk.one](fatihburak.ilk.one)
+- 👨‍💻 All of my projects are available at [fatihburak.ilk.one](https://fatihburak.ilk.one)
 
 - 📫 How to reach me **f.burakilk@gmail.com**
 
